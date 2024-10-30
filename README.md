@@ -6,7 +6,11 @@ I am Elad, a graduate with a Bachelor's degree in Computer Science, a creative p
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/elad7290/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elad-baal-tzdaka/) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c, cpp, css, dart, html, java, js, ocaml, python, flask, firebase, mongodb, mysql, sqlite, react
+
+
+
+)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=elad7290&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
